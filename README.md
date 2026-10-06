@@ -43,7 +43,7 @@ All estimates are weighted using the survey multipliers.
 
 1. Upload `paper/main.tex` and the `figs/` folder to Overleaf (or compile locally with `pdflatex`).
 2. Set `\showfigstrue` in `main.tex` to include the charts. The default builds a 10-page version without them.
-3. Replace the `\repo` placeholder with this repository's URL.
+3. The `\repo` line in `main.tex` already points to this repository: <https://github.com/Ayansheikh034/hces-2023-24-analysis>
 
 ## Data
 
@@ -62,8 +62,10 @@ All results are descriptive. MPCE measures reported spending, not income or weal
 
 ## Licence
 
-Code: MIT. Report text and figures: CC BY 4.0. (Change these if you prefer a different licence.)
+Code: MIT. Report text and figures: CC BY 4.0.
 
 ## Contact
 
-Ayan Bashir Sheikh – add your email or LinkedIn here.
+Ayan Bashir Sheikh
+- Email: [ayansheikh034@gmail.com](mailto:ayansheikh034@gmail.com)
+- LinkedIn: [linkedin.com/in/ayan-sheikh-900255196](https://www.linkedin.com/in/ayan-sheikh-900255196)
